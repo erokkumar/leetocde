@@ -54,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/erokkumar/leetocde/tree/master/0175-combine-two-tables) |
 | [3220-odd-and-even-transactions](https://github.com/erokkumar/leetocde/tree/master/3220-odd-and-even-transactions) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/erokkumar/leetocde/tree/master/3699-number-of-zigzag-arrays-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/erokkumar/leetocde/tree/master/3699-number-of-zigzag-arrays-i) |
 <!---LeetCode Topics End-->
