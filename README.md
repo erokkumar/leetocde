@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/erokkumar/leetocde/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/erokkumar/leetocde/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/erokkumar/leetocde/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/erokkumar/leetocde/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/erokkumar/leetocde/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
