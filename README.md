@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/erokkumar/leetocde/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/erokkumar/leetocde/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0704-binary-search](https://github.com/erokkumar/leetocde/tree/master/0704-binary-search) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/erokkumar/leetocde/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/erokkumar/leetocde/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/erokkumar/leetocde/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/erokkumar/leetocde/tree/master/1189-maximum-number-of-balloons) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/erokkumar/leetocde/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/erokkumar/leetocde/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Counting
 |  |
 | ------- |
