@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/erokkumar/leetocde/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/erokkumar/leetocde/tree/master/0912-sort-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/erokkumar/leetocde/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/erokkumar/leetocde/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/erokkumar/leetocde/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/erokkumar/leetocde/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/erokkumar/leetocde/tree/master/0704-binary-search) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/erokkumar/leetocde/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Database
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/erokkumar/leetocde/tree/master/0912-sort-an-array) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/erokkumar/leetocde/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -112,4 +115,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/erokkumar/leetocde/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/erokkumar/leetocde/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/erokkumar/leetocde/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/erokkumar/leetocde/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
