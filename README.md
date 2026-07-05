@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/erokkumar/leetocde/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0704-binary-search](https://github.com/erokkumar/leetocde/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/erokkumar/leetocde/tree/master/0912-sort-an-array) |
+| [1301-number-of-paths-with-max-score](https://github.com/erokkumar/leetocde/tree/master/1301-number-of-paths-with-max-score) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/erokkumar/leetocde/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/erokkumar/leetocde/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/erokkumar/leetocde/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/erokkumar/leetocde/tree/master/1301-number-of-paths-with-max-score) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/erokkumar/leetocde/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
 |  |
@@ -128,5 +130,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/erokkumar/leetocde/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/erokkumar/leetocde/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
