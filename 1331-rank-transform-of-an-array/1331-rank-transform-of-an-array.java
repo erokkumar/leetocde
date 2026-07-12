@@ -1,20 +1,24 @@
 class Solution {
     public int[] arrayRankTransform(int[] arr) {
-        int[] sorted = arr.clone();
+        int [] sorted = arr.clone();
         Arrays.sort(sorted);
 
-        int m = 0;
+        HashMap<Integer,Integer> rank = new HashMap<>();
+        int r = 1;
+
         for(int x : sorted){
-            if(m == 0 || sorted[m - 1] != x){
-                sorted[m++] = x;
+            if(!rank.containsKey(x)){
+                rank.put(x,r);
+                r++;
             }
         }
 
-        int [] uni = Arrays.copyOf(sorted, m);
+        int[] ans = new int[arr.length];
 
         for(int i =0; i<arr.length; i++){
-            arr[i] = Arrays.binarySearch(uni, arr[i]) + 1;
+            ans[i] = rank.get(arr[i]);
         }
-        return arr;
+
+        return ans;
     }
 }
