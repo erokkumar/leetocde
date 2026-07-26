@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/erokkumar/leetocde/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/erokkumar/leetocde/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/erokkumar/leetocde/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/erokkumar/leetocde/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/erokkumar/leetocde/tree/master/0912-sort-an-array) |
 | [1260-shift-2d-grid](https://github.com/erokkumar/leetocde/tree/master/1260-shift-2d-grid) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/erokkumar/leetocde/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/erokkumar/leetocde/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/erokkumar/leetocde/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/erokkumar/leetocde/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/erokkumar/leetocde/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/erokkumar/leetocde/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/erokkumar/leetocde/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/erokkumar/leetocde/tree/master/3536-maximum-product-of-two-digits) |
