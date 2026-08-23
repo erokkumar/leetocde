@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/erokkumar/leetocde/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/erokkumar/leetocde/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/erokkumar/leetocde/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1927-sum-game](https://github.com/erokkumar/leetocde/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/erokkumar/leetocde/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/erokkumar/leetocde/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/erokkumar/leetocde/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/erokkumar/leetocde/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/erokkumar/leetocde/tree/master/0628-maximum-product-of-three-numbers) |
 | [1563-stone-game-v](https://github.com/erokkumar/leetocde/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/erokkumar/leetocde/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/erokkumar/leetocde/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/erokkumar/leetocde/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/erokkumar/leetocde/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -215,4 +217,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/erokkumar/leetocde/tree/master/0486-predict-the-winner) |
 | [1563-stone-game-v](https://github.com/erokkumar/leetocde/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/erokkumar/leetocde/tree/master/1927-sum-game) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/erokkumar/leetocde/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
