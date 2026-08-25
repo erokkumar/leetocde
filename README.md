@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/erokkumar/leetocde/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/erokkumar/leetocde/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/erokkumar/leetocde/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/erokkumar/leetocde/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/erokkumar/leetocde/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/erokkumar/leetocde/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/erokkumar/leetocde/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/erokkumar/leetocde/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/erokkumar/leetocde/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/erokkumar/leetocde/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/erokkumar/leetocde/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/erokkumar/leetocde/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/erokkumar/leetocde/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
