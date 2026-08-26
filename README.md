@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/erokkumar/leetocde/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0486-predict-the-winner](https://github.com/erokkumar/leetocde/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/erokkumar/leetocde/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/erokkumar/leetocde/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/erokkumar/leetocde/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/erokkumar/leetocde/tree/master/0912-sort-an-array) |
 | [1260-shift-2d-grid](https://github.com/erokkumar/leetocde/tree/master/1260-shift-2d-grid) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/erokkumar/leetocde/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/erokkumar/leetocde/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/erokkumar/leetocde/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/erokkumar/leetocde/tree/master/3090-maximum-length-substring-with-two-occurrences) |
