@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/erokkumar/leetocde/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/erokkumar/leetocde/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/erokkumar/leetocde/tree/master/0066-plus-one) |
 | [0219-contains-duplicate-ii](https://github.com/erokkumar/leetocde/tree/master/0219-contains-duplicate-ii) |
 | [0486-predict-the-winner](https://github.com/erokkumar/leetocde/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/erokkumar/leetocde/tree/master/0628-maximum-product-of-three-numbers) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/erokkumar/leetocde/tree/master/0066-plus-one) |
 | [0486-predict-the-winner](https://github.com/erokkumar/leetocde/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/erokkumar/leetocde/tree/master/0628-maximum-product-of-three-numbers) |
 | [1563-stone-game-v](https://github.com/erokkumar/leetocde/tree/master/1563-stone-game-v) |
