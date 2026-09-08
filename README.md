@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/erokkumar/leetocde/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/erokkumar/leetocde/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/erokkumar/leetocde/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0169-majority-element](https://github.com/erokkumar/leetocde/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/erokkumar/leetocde/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/erokkumar/leetocde/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/erokkumar/leetocde/tree/master/0486-predict-the-winner) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/erokkumar/leetocde/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/erokkumar/leetocde/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/erokkumar/leetocde/tree/master/0219-contains-duplicate-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/erokkumar/leetocde/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/erokkumar/leetocde/tree/master/1331-rank-transform-of-an-array) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/erokkumar/leetocde/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/erokkumar/leetocde/tree/master/1189-maximum-number-of-balloons) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/erokkumar/leetocde/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/erokkumar/leetocde/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/erokkumar/leetocde/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/erokkumar/leetocde/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/erokkumar/leetocde/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
@@ -165,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/erokkumar/leetocde/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/erokkumar/leetocde/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/erokkumar/leetocde/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/erokkumar/leetocde/tree/master/1331-rank-transform-of-an-array) |
@@ -254,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/erokkumar/leetocde/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1927-sum-game](https://github.com/erokkumar/leetocde/tree/master/1927-sum-game) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/erokkumar/leetocde/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
