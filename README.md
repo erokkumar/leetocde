@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/erokkumar/leetocde/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/erokkumar/leetocde/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/erokkumar/leetocde/tree/master/1480-running-sum-of-1d-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/erokkumar/leetocde/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1563-stone-game-v](https://github.com/erokkumar/leetocde/tree/master/1563-stone-game-v) |
 | [1652-defuse-the-bomb](https://github.com/erokkumar/leetocde/tree/master/1652-defuse-the-bomb) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/erokkumar/leetocde/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -119,11 +120,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/erokkumar/leetocde/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/erokkumar/leetocde/tree/master/0283-move-zeroes) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/erokkumar/leetocde/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/erokkumar/leetocde/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/erokkumar/leetocde/tree/master/0704-binary-search) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/erokkumar/leetocde/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/erokkumar/leetocde/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Database
 |  |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/erokkumar/leetocde/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/erokkumar/leetocde/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/erokkumar/leetocde/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/erokkumar/leetocde/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/erokkumar/leetocde/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/erokkumar/leetocde/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/erokkumar/leetocde/tree/master/3536-maximum-product-of-two-digits) |
