@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/erokkumar/leetocde/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/erokkumar/leetocde/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/erokkumar/leetocde/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/erokkumar/leetocde/tree/master/0713-subarray-product-less-than-k) |
 | [0912-sort-an-array](https://github.com/erokkumar/leetocde/tree/master/0912-sort-an-array) |
 | [1260-shift-2d-grid](https://github.com/erokkumar/leetocde/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/erokkumar/leetocde/tree/master/1301-number-of-paths-with-max-score) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0611-valid-triangle-number](https://github.com/erokkumar/leetocde/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/erokkumar/leetocde/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/erokkumar/leetocde/tree/master/0713-subarray-product-less-than-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/erokkumar/leetocde/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/erokkumar/leetocde/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/erokkumar/leetocde/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/erokkumar/leetocde/tree/master/0713-subarray-product-less-than-k) |
 | [1480-running-sum-of-1d-array](https://github.com/erokkumar/leetocde/tree/master/1480-running-sum-of-1d-array) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/erokkumar/leetocde/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/erokkumar/leetocde/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/erokkumar/leetocde/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/erokkumar/leetocde/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/erokkumar/leetocde/tree/master/0713-subarray-product-less-than-k) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/erokkumar/leetocde/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/erokkumar/leetocde/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/erokkumar/leetocde/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
