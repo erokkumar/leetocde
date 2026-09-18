@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/erokkumar/leetocde/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/erokkumar/leetocde/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/erokkumar/leetocde/tree/master/0486-predict-the-winner) |
+| [0611-valid-triangle-number](https://github.com/erokkumar/leetocde/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/erokkumar/leetocde/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/erokkumar/leetocde/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/erokkumar/leetocde/tree/master/0704-binary-search) |
@@ -122,11 +123,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/erokkumar/leetocde/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/erokkumar/leetocde/tree/master/0283-move-zeroes) |
+| [0611-valid-triangle-number](https://github.com/erokkumar/leetocde/tree/master/0611-valid-triangle-number) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/erokkumar/leetocde/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/erokkumar/leetocde/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/erokkumar/leetocde/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/erokkumar/leetocde/tree/master/0704-binary-search) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/erokkumar/leetocde/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/erokkumar/leetocde/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/erokkumar/leetocde/tree/master/0169-majority-element) |
+| [0611-valid-triangle-number](https://github.com/erokkumar/leetocde/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/erokkumar/leetocde/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/erokkumar/leetocde/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/erokkumar/leetocde/tree/master/1331-rank-transform-of-an-array) |
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/erokkumar/leetocde/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0611-valid-triangle-number](https://github.com/erokkumar/leetocde/tree/master/0611-valid-triangle-number) |
 | [1927-sum-game](https://github.com/erokkumar/leetocde/tree/master/1927-sum-game) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
