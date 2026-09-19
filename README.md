@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/erokkumar/leetocde/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/erokkumar/leetocde/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/erokkumar/leetocde/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/erokkumar/leetocde/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/erokkumar/leetocde/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/erokkumar/leetocde/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/erokkumar/leetocde/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/erokkumar/leetocde/tree/master/0283-move-zeroes) |
 | [0611-valid-triangle-number](https://github.com/erokkumar/leetocde/tree/master/0611-valid-triangle-number) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/erokkumar/leetocde/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/erokkumar/leetocde/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/erokkumar/leetocde/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/erokkumar/leetocde/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0611-valid-triangle-number](https://github.com/erokkumar/leetocde/tree/master/0611-valid-triangle-number) |
 | [1927-sum-game](https://github.com/erokkumar/leetocde/tree/master/1927-sum-game) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/erokkumar/leetocde/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
