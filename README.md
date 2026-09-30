@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/erokkumar/leetocde/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/erokkumar/leetocde/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/erokkumar/leetocde/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/erokkumar/leetocde/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/erokkumar/leetocde/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/erokkumar/leetocde/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/erokkumar/leetocde/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/erokkumar/leetocde/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/erokkumar/leetocde/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/erokkumar/leetocde/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/erokkumar/leetocde/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/erokkumar/leetocde/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/erokkumar/leetocde/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/erokkumar/leetocde/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/erokkumar/leetocde/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/erokkumar/leetocde/tree/master/0611-valid-triangle-number) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/erokkumar/leetocde/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/erokkumar/leetocde/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/erokkumar/leetocde/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/erokkumar/leetocde/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/erokkumar/leetocde/tree/master/0713-subarray-product-less-than-k) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/erokkumar/leetocde/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
